@@ -6,6 +6,6 @@ This project involves creating a backend system for a workout tracker applicatio
 https://roadmap.sh/projects/fitness-workout-tracker
 
 
-# Excercise Format
-
-Name?, Excercise, Reps, Sets, Weight.
+# Future Updates 
+Generating Reports will be added later 
+Generate Reports: Generate reports on past workouts and progress.
